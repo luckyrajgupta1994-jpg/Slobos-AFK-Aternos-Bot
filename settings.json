@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "nmrcy clone",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "jaishreeram-1ZVq.aternos.me",
+    "ip": "megalacodron.aternos.me",
     "port": 31438,
     "version": "",
     "try-creative": false
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Ka hal Ba tohaar",
+        "Bihar se hai",
+        "Ham sher Hai re!!"
       ]
     },
     "chat-log": true,
