@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "megalacodron.aternos.me",
+    "port": 31438,
     "version": "",
     "try-creative": false
   },
