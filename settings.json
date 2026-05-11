@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "megalacodron.aternos.me",
+    "ip": "megalacodron.aternos.me:31438",
     "port": 31438,
     "version": "",
     "try-creative": false
